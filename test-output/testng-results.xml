@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="32" passed="32" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-27T21:33:07 IST" name="Suite" finished-at="2025-12-27T21:40:25 IST" duration-ms="437693">
+    <groups>
+    </groups>
+    <test started-at="2025-12-27T21:33:07 IST" name="Test" finished-at="2025-12-27T21:40:25 IST" duration-ms="437693">
+      <class name="test_package.HOME_PAGE_TEST">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:24 IST" name="Setup" finished-at="2025-12-27T21:37:43 IST" duration-ms="19198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:43 IST" name="objectmethod" finished-at="2025-12-27T21:37:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="option()[pri:1, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:43 IST" name="option" finished-at="2025-12-27T21:37:44 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option -->
+        <test-method signature="btn()[pri:2, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:44 IST" name="btn" finished-at="2025-12-27T21:37:54 IST" duration-ms="10722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:44 IST" name="objectmethod" finished-at="2025-12-27T21:37:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:54 IST" name="objectmethod" finished-at="2025-12-27T21:37:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="drpdwn()[pri:3, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:37:54 IST" name="drpdwn" finished-at="2025-12-27T21:38:07 IST" duration-ms="12360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drpdwn -->
+        <test-method signature="scroll()[pri:4, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:38:07 IST" name="scroll" finished-at="2025-12-27T21:38:07 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:38:07 IST" name="objectmethod" finished-at="2025-12-27T21:38:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="cake_selected()[pri:5, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:38:07 IST" name="cake_selected" finished-at="2025-12-27T21:38:07 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cake_selected -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.HOME_PAGE_TEST@7eac9008]" started-at="2025-12-27T21:38:07 IST" name="objectmethod" finished-at="2025-12-27T21:38:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+      </class> <!-- test_package.HOME_PAGE_TEST -->
+      <class name="test_package.PRODUCT_PAGE_TEST">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:35:58 IST" name="Setup" finished-at="2025-12-27T21:36:23 IST" duration-ms="24927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:23 IST" name="objectmethod" finished-at="2025-12-27T21:36:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="log()[pri:1, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:23 IST" name="log" finished-at="2025-12-27T21:36:27 IST" duration-ms="3772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="option()[pri:2, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:27 IST" name="option" finished-at="2025-12-27T21:36:27 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:27 IST" name="objectmethod" finished-at="2025-12-27T21:36:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:27 IST" name="objectmethod" finished-at="2025-12-27T21:36:27 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="btn()[pri:3, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:27 IST" name="btn" finished-at="2025-12-27T21:36:36 IST" duration-ms="9184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:36 IST" name="objectmethod" finished-at="2025-12-27T21:36:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="drpdwn()[pri:4, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:36 IST" name="drpdwn" finished-at="2025-12-27T21:36:44 IST" duration-ms="7819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drpdwn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:44 IST" name="objectmethod" finished-at="2025-12-27T21:36:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="scroll()[pri:5, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:44 IST" name="scroll" finished-at="2025-12-27T21:36:44 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="cake_selected()[pri:6, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:44 IST" name="cake_selected" finished-at="2025-12-27T21:36:44 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cake_selected -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:44 IST" name="objectmethod" finished-at="2025-12-27T21:36:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:44 IST" name="objectmethod" finished-at="2025-12-27T21:36:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="detailesofcake()[pri:7, instance:test_package.PRODUCT_PAGE_TEST@1fa121e2]" started-at="2025-12-27T21:36:44 IST" name="detailesofcake" finished-at="2025-12-27T21:37:24 IST" duration-ms="39577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailesofcake -->
+      </class> <!-- test_package.PRODUCT_PAGE_TEST -->
+      <class name="test_package.CART_PAGE_TEST">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:34:55 IST" name="Setup" finished-at="2025-12-27T21:35:14 IST" duration-ms="19137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:14 IST" name="objectmethod" finished-at="2025-12-27T21:35:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="log()[pri:1, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:14 IST" name="log" finished-at="2025-12-27T21:35:19 IST" duration-ms="5052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:19 IST" name="objectmethod" finished-at="2025-12-27T21:35:19 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="option()[pri:2, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:19 IST" name="option" finished-at="2025-12-27T21:35:19 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option -->
+        <test-method signature="btn()[pri:3, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:19 IST" name="btn" finished-at="2025-12-27T21:35:29 IST" duration-ms="10189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:19 IST" name="objectmethod" finished-at="2025-12-27T21:35:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:29 IST" name="objectmethod" finished-at="2025-12-27T21:35:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="drpdwn()[pri:4, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:29 IST" name="drpdwn" finished-at="2025-12-27T21:35:38 IST" duration-ms="8589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drpdwn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:38 IST" name="objectmethod" finished-at="2025-12-27T21:35:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="scroll()[pri:5, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:38 IST" name="scroll" finished-at="2025-12-27T21:35:38 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:38 IST" name="objectmethod" finished-at="2025-12-27T21:35:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="cake_selected()[pri:6, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:38 IST" name="cake_selected" finished-at="2025-12-27T21:35:38 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cake_selected -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:38 IST" name="objectmethod" finished-at="2025-12-27T21:35:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="detailesofcake()[pri:7, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:38 IST" name="detailesofcake" finished-at="2025-12-27T21:35:57 IST" duration-ms="19100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailesofcake -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:57 IST" name="objectmethod" finished-at="2025-12-27T21:35:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="cartoption()[pri:8, instance:test_package.CART_PAGE_TEST@3cd3e762]" started-at="2025-12-27T21:35:57 IST" name="cartoption" finished-at="2025-12-27T21:35:58 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartoption -->
+      </class> <!-- test_package.CART_PAGE_TEST -->
+      <class name="test_package.LOGIN_PAGE_TEST">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:test_package.LOGIN_PAGE_TEST@1e800aaa]" started-at="2025-12-27T21:33:08 IST" name="Setup" finished-at="2025-12-27T21:33:27 IST" duration-ms="19177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.LOGIN_PAGE_TEST@1e800aaa]" started-at="2025-12-27T21:33:27 IST" name="objectmethod" finished-at="2025-12-27T21:33:27 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="log()[pri:1, instance:test_package.LOGIN_PAGE_TEST@1e800aaa]" started-at="2025-12-27T21:33:27 IST" name="log" finished-at="2025-12-27T21:33:31 IST" duration-ms="4088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.LOGIN_PAGE_TEST@1e800aaa]" started-at="2025-12-27T21:33:31 IST" name="objectmethod" finished-at="2025-12-27T21:33:31 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="datadriventest()[pri:2, instance:test_package.LOGIN_PAGE_TEST@1e800aaa]" started-at="2025-12-27T21:33:31 IST" name="datadriventest" finished-at="2025-12-27T21:34:55 IST" duration-ms="83719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriventest -->
+      </class> <!-- test_package.LOGIN_PAGE_TEST -->
+      <class name="test_package.PAYMENT_PAGE_TEST">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:38:07 IST" name="Setup" finished-at="2025-12-27T21:39:09 IST" duration-ms="62451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="log()[pri:1, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:09 IST" name="log" finished-at="2025-12-27T21:39:19 IST" duration-ms="9977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:09 IST" name="objectmethod" finished-at="2025-12-27T21:39:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:19 IST" name="objectmethod" finished-at="2025-12-27T21:39:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="option()[pri:2, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:19 IST" name="option" finished-at="2025-12-27T21:39:20 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:20 IST" name="objectmethod" finished-at="2025-12-27T21:39:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="btn()[pri:3, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:20 IST" name="btn" finished-at="2025-12-27T21:39:33 IST" duration-ms="13790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:33 IST" name="objectmethod" finished-at="2025-12-27T21:39:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="drpdwn()[pri:4, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:33 IST" name="drpdwn" finished-at="2025-12-27T21:39:43 IST" duration-ms="9796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drpdwn -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:43 IST" name="objectmethod" finished-at="2025-12-27T21:39:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="scroll()[pri:5, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:43 IST" name="scroll" finished-at="2025-12-27T21:39:43 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:43 IST" name="objectmethod" finished-at="2025-12-27T21:39:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="cake_selected()[pri:6, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:43 IST" name="cake_selected" finished-at="2025-12-27T21:39:43 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cake_selected -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:43 IST" name="objectmethod" finished-at="2025-12-27T21:39:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="detailesofcake()[pri:7, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:39:43 IST" name="detailesofcake" finished-at="2025-12-27T21:40:11 IST" duration-ms="27924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailesofcake -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:40:11 IST" name="objectmethod" finished-at="2025-12-27T21:40:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="cartoption()[pri:8, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:40:11 IST" name="cartoption" finished-at="2025-12-27T21:40:12 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartoption -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:40:12 IST" name="objectmethod" finished-at="2025-12-27T21:40:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="modeofpayment()[pri:9, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:40:12 IST" name="modeofpayment" finished-at="2025-12-27T21:40:25 IST" duration-ms="12942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modeofpayment -->
+        <test-method is-config="true" signature="objectmethod()[pri:0, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:40:25 IST" name="objectmethod" finished-at="2025-12-27T21:40:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmethod -->
+        <test-method signature="Take_ss()[pri:10, instance:test_package.PAYMENT_PAGE_TEST@4116aac9]" started-at="2025-12-27T21:40:25 IST" name="Take_ss" finished-at="2025-12-27T21:40:25 IST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Take_ss -->
+      </class> <!-- test_package.PAYMENT_PAGE_TEST -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
